@@ -32,7 +32,7 @@ A multi-sheet Excel file containing:
  
 
 ## 🚀 How to View the Demo
-1. Visit the **GitHub Pages site**: [https://motionanalytics.github.io/Swimming-Analysis/]
+1. Visit the **GitHub Pages site**: [https://bgu-biomechanics-and-robotics.github.io/Swimming-Analysis/]
 2. Watch the **annotated video**.
 3. Download the **Excel file** - by clicking on the table images.
 4. Explore the **interactive report** - opened by clicking on the video.
